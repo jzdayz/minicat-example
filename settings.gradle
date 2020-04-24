@@ -1,0 +1,4 @@
+rootProject.name = 'minicat-example'
+include 'provider'
+include 'consumer'
+

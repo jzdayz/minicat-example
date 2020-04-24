@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'io.github.jzdayz:minicat-client-spring-boot-starter:0.0.1.SNAPSHOT'
+}
