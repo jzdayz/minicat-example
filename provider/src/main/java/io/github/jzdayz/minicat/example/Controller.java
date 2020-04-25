@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
     @RequestMapping("/test")
-    public Object test(String content){
+    public Object test(){
 
-        return content;
+        return "Hello word";
 
     }
 }
